@@ -1,13 +1,37 @@
-body {
+/* Reset body */
+:where(body) {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  overflow-wrap: break-word;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Do not break Korean words */
+:where(:lang(ko)) { word-break: keep-all; }
+
+/* Reset img */
+:where(img) {
+  max-width: 100%;
+  height: auto;
+}
+
+/* CSS Reset by [class] */
+:where([class]) {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:where([class])::before,
+:where([class])::after {
+  box-sizing: border-box;
+}
+:where(ol[class], ul[class], li[class]) { list-style: none; }
+:where(button[class], fieldset[class], iframe[class], input[class], select[class], textarea[class]) { border: 0; }
+:where(button[class], dialog[class], input[class], mark[class], meter[class], progress[class]) { background-color: transparent; }
+:where(table[class]) {
+  border: 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+:where(button[class], input[class], meter[class], progress[class], select[class], textarea[class]) {
+  -webkit-appearance: none;
+  appearance: none;
 }
