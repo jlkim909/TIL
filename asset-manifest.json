@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TIL/static/css/main.aec930ea.css",
+    "main.js": "/TIL/static/js/main.23eb2b92.js",
+    "static/js/787.26fed39c.chunk.js": "/TIL/static/js/787.26fed39c.chunk.js",
+    "index.html": "/TIL/index.html",
+    "main.aec930ea.css.map": "/TIL/static/css/main.aec930ea.css.map",
+    "main.23eb2b92.js.map": "/TIL/static/js/main.23eb2b92.js.map",
+    "787.26fed39c.chunk.js.map": "/TIL/static/js/787.26fed39c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec930ea.css",
+    "static/js/main.23eb2b92.js"
+  ]
+}
