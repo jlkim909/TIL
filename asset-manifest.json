@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TIL/static/css/main.37a9de77.css",
-    "main.js": "/TIL/static/js/main.76175fc9.js",
+    "main.css": "/TIL/static/css/main.784ada08.css",
+    "main.js": "/TIL/static/js/main.cf6766d4.js",
     "static/js/787.26fed39c.chunk.js": "/TIL/static/js/787.26fed39c.chunk.js",
     "static/media/GmarketSansTTFBold.ttf": "/TIL/static/media/GmarketSansTTFBold.69428064ef8eee25be33.ttf",
     "static/media/GmarketSansTTFMedium.ttf": "/TIL/static/media/GmarketSansTTFMedium.d4bac6b182bed73c9375.ttf",
@@ -14,12 +14,12 @@
     "static/media/emptyLego.png": "/TIL/static/media/emptyLego.a566b43c1f2908074ddb.png",
     "static/media/papago.jpg": "/TIL/static/media/papago.eb8f55212430e7255616.jpg",
     "index.html": "/TIL/index.html",
-    "main.37a9de77.css.map": "/TIL/static/css/main.37a9de77.css.map",
-    "main.76175fc9.js.map": "/TIL/static/js/main.76175fc9.js.map",
+    "main.784ada08.css.map": "/TIL/static/css/main.784ada08.css.map",
+    "main.cf6766d4.js.map": "/TIL/static/js/main.cf6766d4.js.map",
     "787.26fed39c.chunk.js.map": "/TIL/static/js/787.26fed39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a9de77.css",
-    "static/js/main.76175fc9.js"
+    "static/css/main.784ada08.css",
+    "static/js/main.cf6766d4.js"
   ]
 }
