@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TIL/static/css/main.f03689d2.css",
-    "main.js": "/TIL/static/js/main.02fc298c.js",
+    "main.css": "/TIL/static/css/main.ecc5c718.css",
+    "main.js": "/TIL/static/js/main.f6bd0ccc.js",
     "static/js/787.26fed39c.chunk.js": "/TIL/static/js/787.26fed39c.chunk.js",
     "static/media/GmarketSansTTFBold.ttf": "/TIL/static/media/GmarketSansTTFBold.69428064ef8eee25be33.ttf",
     "static/media/GmarketSansTTFMedium.ttf": "/TIL/static/media/GmarketSansTTFMedium.d4bac6b182bed73c9375.ttf",
@@ -12,12 +12,12 @@
     "static/media/reacticons.png": "/TIL/static/media/reacticons.6abb57f2616c25ccef00.png",
     "static/media/papago.jpg": "/TIL/static/media/papago.eb8f55212430e7255616.jpg",
     "index.html": "/TIL/index.html",
-    "main.f03689d2.css.map": "/TIL/static/css/main.f03689d2.css.map",
-    "main.02fc298c.js.map": "/TIL/static/js/main.02fc298c.js.map",
+    "main.ecc5c718.css.map": "/TIL/static/css/main.ecc5c718.css.map",
+    "main.f6bd0ccc.js.map": "/TIL/static/js/main.f6bd0ccc.js.map",
     "787.26fed39c.chunk.js.map": "/TIL/static/js/787.26fed39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f03689d2.css",
-    "static/js/main.02fc298c.js"
+    "static/css/main.ecc5c718.css",
+    "static/js/main.f6bd0ccc.js"
   ]
 }
