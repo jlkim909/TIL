@@ -1,0 +1,51 @@
+.lzCategoryBox{
+    background-color: var(--lambsEar);
+    position: sticky;
+    top:0;
+    width:200px;
+    height:100vh;
+    font-family: GmarketSans;
+}
+
+.lzCategoryBox__iconsList{
+    font-size:24px;
+    width:100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding:20px;
+    gap:8px;
+}
+
+.lzCategoryBox__icon{
+    text-decoration: none;
+    color:var(--champagneSorbet);
+}
+
+.lzCategoryBox__icon--board{
+    font-size:20px;
+}
+.lzCategoryBox__icon:hover{
+    color:var(--chamomile);
+}
+
+.lzCategory{
+    padding-left:20px;
+}
+
+.lzStudyList{
+    display: flex;
+    flex-direction: column;
+    padding-left:20px;
+    margin-bottom:12px;
+}
+
+.lzStudyList__item{   
+    text-decoration: none;
+    color:gray;
+    margin:4px;
+}
+
+.lzStudyList__item:hover{   
+    color:var(--chamomile);
+}

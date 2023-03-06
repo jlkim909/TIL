@@ -1,0 +1,23 @@
+.lzMemo{
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.lzMemo__header{
+    background-color: var(--lemonSorbet);
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lzMemo__input{
+    padding:12px;
+    width:400px;
+    height:240px;
+    background-color: var(--champagneSorbet);
+    outline:none;
+    resize:none;
+}

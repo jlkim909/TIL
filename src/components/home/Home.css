@@ -1,0 +1,103 @@
+.lzHomeContainer{
+    padding:20px;
+    font-family:GmarketSans;
+    background-color: #212324;
+    color:white;
+    height:100vh;
+}
+
+.lzNeonWhite {
+    color:white;
+    filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.7))
+    drop-shadow(0 0 5px rgba(255, 255, 255, 0.7));
+}
+
+.lzTitle{
+    display: flex;
+    justify-content: center;
+    border-bottom:2px solid var(--champagneSorbet);
+    padding-bottom: 20px;
+    color: var(--chamomile);
+    filter: drop-shadow(0 0 2px rgba(238,231,128, 0.7))
+    drop-shadow(0 0 5px rgba(238,231,128, 0.7))
+}
+
+.lzHomeToolBox{
+    display:flex;
+    justify-content: space-between;
+    margin-top:20px;
+}
+
+.lzCalendar{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
+
+.lzCalendar__img{
+    width:40px;
+    height:40px;
+    margin-right:12px;
+    color:white;
+}
+
+.lzStopwatch {
+    background: linear-gradient(#1e1e1e, rgb(31, 31, 31));
+    box-shadow: 0 4px 32px 0 rgba(42, 42, 42);
+    border-radius: 8px;
+    font-size: 24px;
+    padding:12px 20px;
+}
+
+.lzHomeBody{
+    margin-top:60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lzHomeIconBox{
+    margin-left:20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.lzHomeIconBox__header{
+    margin-bottom:8px;
+}
+.lzHomeIconList{
+    display:grid;
+    border-radius: 8px;
+    height:100%;
+    background: linear-gradient(#1e1e1e, rgb(31, 31, 31));
+    box-shadow: 0 4px 32px 0 rgba(42, 42, 42);
+    grid:repeat(2,120px) / repeat(3,100px);
+    padding:20px;
+}
+
+.lzHomeIconList__item{
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.lzHomeIconList__icon{
+    width:60px;
+    height:60px;
+    border-radius: 20px;
+    /* box-shadow: 0 3px 4px lightgray; */
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.lzTodoList{
+    display: flex;
+    gap:80px;
+    flex-direction: column;
+    justify-content: space-between;
+}

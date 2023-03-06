@@ -1,0 +1,10 @@
+.lzAppContainer{
+    position:relative;
+    display: flex;
+}
+
+.lzMainContainer{
+    position:relative;
+    width:760px;
+    background-color: var(--champagneSorbet);
+}
