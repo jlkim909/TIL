@@ -31,7 +31,46 @@
   border-spacing: 0;
   border-collapse: collapse;
 }
+
 :where(button[class], input[class], meter[class], progress[class], select[class], textarea[class]) {
   -webkit-appearance: none;
   appearance: none;
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 300;
+  src: url('./font/GmarketSans/GmarketSansTTFLight.ttf') format('woff2'),
+    url('./font/GmarketSans/GmarketSansTTFLight.ttf') format('woff'),
+    url('./font/GmarketSans/GmarketSansTTFLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 500;
+  src: url('./font/GmarketSans/GmarketSansTTFMedium.ttf') format('woff2'),
+    url('./font/GmarketSans/GmarketSansTTFMedium.ttf') format('woff'),
+    url('./font/GmarketSans/GmarketSansTTFMedium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  font-weight: 700;
+  src: url('./font/GmarketSans/GmarketSansTTFBold.ttf') format('woff2'),
+    url('./font/GmarketSans/GmarketSansTTFBold.ttf') format('woff'),
+    url('./font/GmarketSans/GmarketSansTTFBold.ttf') format('truetype');
+}
+
+:root{
+  /* 셔벗 : 산뜻한 과일 향이 떠오르는 디저트 컬러 */
+  --lemonSorbet:rgb(253,251,213);
+  --kiwiSorbet:rgb(226,233,184);
+  --champagneSorbet:rgb(255,255,249);
+  /* 건강한 몸과 마음, 편안한 인상의 휴식 같은 배색 그룹 */
+  /* 그윽한 허브의 내추럴 컬러(민트, 라벤더, 캐모마일 등) */
+  --elderFlower:rgb(255,251,237);
+  --chamomile:rgb(238,231,128);
+  --lambsEar:rgb(188,204,188);
+  --freshDill:rgb(131,149,66);
+  --livelyMint:rgb(194,218,117);
 }
