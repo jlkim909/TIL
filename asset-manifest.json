@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/TIL/static/css/main.dd101c34.css",
-    "main.js": "/TIL/static/js/main.5c14fb37.js",
+    "main.css": "/TIL/static/css/main.c26a26a4.css",
+    "main.js": "/TIL/static/js/main.4c72842f.js",
     "static/js/787.26fed39c.chunk.js": "/TIL/static/js/787.26fed39c.chunk.js",
     "static/media/GmarketSansTTFBold.ttf": "/TIL/static/media/GmarketSansTTFBold.69428064ef8eee25be33.ttf",
     "static/media/GmarketSansTTFMedium.ttf": "/TIL/static/media/GmarketSansTTFMedium.d4bac6b182bed73c9375.ttf",
     "static/media/GmarketSansTTFLight.ttf": "/TIL/static/media/GmarketSansTTFLight.efaa8f19ead1555b1c39.ttf",
-    "static/media/cssMethod2.png": "/TIL/static/media/cssMethod2.9733201caf8bb0d9ad33.png",
     "static/media/fastcampus.jpg": "/TIL/static/media/fastcampus.3eabb412a188174e9ded.jpg",
     "static/media/profil.jpg": "/TIL/static/media/profil.121d58e301c8f4d5d4dd.jpg",
     "static/media/github.jpg": "/TIL/static/media/github.4cee05cc4757ef4b25bb.jpg",
     "static/media/reacticons.png": "/TIL/static/media/reacticons.6abb57f2616c25ccef00.png",
     "static/media/papago.jpg": "/TIL/static/media/papago.eb8f55212430e7255616.jpg",
     "index.html": "/TIL/index.html",
-    "main.dd101c34.css.map": "/TIL/static/css/main.dd101c34.css.map",
-    "main.5c14fb37.js.map": "/TIL/static/js/main.5c14fb37.js.map",
+    "main.c26a26a4.css.map": "/TIL/static/css/main.c26a26a4.css.map",
+    "main.4c72842f.js.map": "/TIL/static/js/main.4c72842f.js.map",
     "787.26fed39c.chunk.js.map": "/TIL/static/js/787.26fed39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd101c34.css",
-    "static/js/main.5c14fb37.js"
+    "static/css/main.c26a26a4.css",
+    "static/js/main.4c72842f.js"
   ]
 }
